@@ -1,0 +1,8 @@
+D:\rewild\build\androidexport\rewild6>"C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe" install build\outputs\apk\release\rewild6-release.apk
+Success
+
+D:\rewild\build\androidexport\rewild6>"C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe" uninstall fi.oulu.rewild6
+Success
+
+D:\rewild\build\androidexport\rewild6>"C:\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\adb.exe" fi.oulu.rewild6
+adb: usage: unknown command fi.oulu.rewild6
